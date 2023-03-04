@@ -1,4 +1,4 @@
-<h2 align="left">  ROBOTRON|PROJECT X INSTA SOLUTION </h2 align="left">
+<h2 align="left">ROBOTRON|PROJECT X INSTA SOLUTION </h2 align="left">
 <h1 align="center">Hi 👋, I'm Anandhu Ashok</h1>
 <h3 align="center">Developer making awesome things for awesome people 🚀</h3>
 
@@ -29,6 +29,17 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+#### To add your Insta Username to Database
+Send username to <p align="left">
+<a href="https://instagram.com/mind________freezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind________freezer" height="30" width="40" /></a>
+</p>
+Or WhatsApp http://wa.me/917592046959
+
+
+Don't Try to Modify.
+Otherwise Bot won't Work.
+
 ### Termux Error!
 ```
 pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 -y && pkg install ruby -y && pkg install git -y && pkg install php -y && pkg install perl -y && pkg install bash -y && pkg install clang -y && pkg install nano -y && pkg install w3m -y && pkg install figlet -y && pkg install cowsay -y && pkg install curl -y&& pkg install tar -y && pkg install zip -y && pkg install unzip -y && pkg install wget -y && pkg install wcalc -y && pkg install bmon -y && pkg install openssl -y && pkg install cmatrix -y && pkg install openssh -y && apt update && apt upgrade –y
@@ -43,6 +54,13 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 - Owner:  [Anandhu](https://www.instagram.com/mind________freezer/)
 - For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 
 ---
+### How to Update?
+```
+Goto Directory
+run $bash update.sh
+That's all
+```
+
 
 
 # ⚠Warnings

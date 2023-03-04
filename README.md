@@ -1,5 +1,4 @@
-# Robotron
-<h2 align="left">PROJECT X INSTA SOLUTION </h2 align="left">
+<h2 align="left">  Robotron|PROJECT X INSTA SOLUTION </h2 align="left">
 <h1 align="center">Hi 👋, I'm Anandhu Ashok</h1>
 <h3 align="center">Developer making awesome things for awesome people 🚀</h3>
 

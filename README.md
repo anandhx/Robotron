@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-#or
+or
 ```
 bash run.sh
 ```

@@ -31,9 +31,10 @@ python main.py
 ```
 
 #### To add your Insta Username to Database
-Send username to 
-<p><a href="https://instagram.com/mind________freezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind________freezer" height="30" width="40" /></a>
-
+Send username to <p>
+<a href="https://instagram.com/mind________freezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind________freezer" height="30" width="40" /></a>
+</p>
+<p>
 Or WhatsApp <a href="http://wa.me/917592046959" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="7592046959"  /></a></p>
 
 

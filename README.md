@@ -9,16 +9,16 @@
 </p>
 
 
-THE BEST INSTAGRAM AUTO LIKER
+THE BEST INSTAGRAM STORY LIKER
 GET MORE FOLLOWERS WITH THIS AUTOMATION
 # How To Use
 
 ### Installation 
 ```
-git clone https://github.com/anandhx/feedx.git
+git clone https://github.com/anandhx/Robotron.git
 ```
 ```
-cd feedx
+cd Robotron
 ```
 ```
 pip install -r requirements.txt

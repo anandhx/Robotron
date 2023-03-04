@@ -15,6 +15,9 @@ GET MORE FOLLOWERS WITH THIS AUTOMATION
 
 ### Installation 
 ```
+pkg install python 
+```
+```
 git clone https://github.com/anandhx/Robotron.git
 ```
 ```
@@ -32,6 +35,19 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 
 
 ```
+
+# 🪧Info
+- Created: 4-Mar-2023
+- Updated: 4=Mar-2023
+- Package: instagrapi (python library) 
+- Owner(s):  [Anandhu](https://www.instagram.com/mind________freezer/)
+= For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 
+---
+
+
+# ⚠Warnings
+This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Instagram, Facebook inc. or any of its affiliates or subsidiaries. This is an independent and unofficial API. Use it at your own risk.
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandhx&show_icons=true&locale=en" alt="anandhx" /></p>
 

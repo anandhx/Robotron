@@ -1,4 +1,5 @@
 # Robotron
+<h1 align="center">PROJECT X INSTA SOLUTION </h1 align="center">
 <h1 align="center">Hi 👋, I'm Anandhu Ashok</h1>
 <h3 align="center">Developer making awesome things for awesome people 🚀</h3>
 
@@ -40,7 +41,7 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 - Created: 4-Mar-2023
 - Updated: 4=Mar-2023
 - Package: instagrapi (python library) 
-- Owner(s):  [Anandhu](https://www.instagram.com/mind________freezer/)
+- Owner:  [Anandhu](https://www.instagram.com/mind________freezer/)
 - For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 
 ---
 

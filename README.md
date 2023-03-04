@@ -4,7 +4,7 @@
 
 <h3 align="center">Developer making awesome things for awesome people 🚀</h3>
 
-(https://git.io/typing-svg)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anandhx.anandhx)
 
 

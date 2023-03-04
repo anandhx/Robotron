@@ -38,7 +38,7 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 
 # 🪧Info
 - Created: 4-Mar-2023
-- Updated: 4=Mar-2023
+- Updated: 4-Mar-2023
 - Package: instagrapi (python library) 
 - Owner:  [Anandhu](https://www.instagram.com/mind________freezer/)
 - For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 

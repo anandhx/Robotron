@@ -1,6 +1,8 @@
 <h2 align="left">ROBOTRON|PROJECT X INSTA SOLUTION </h2 align="left">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232341F7&lines=Hi!+My+name+is+Anandhu+ashok.;Thank+You+for+taking+the+time;+to+view+my+GitHub+%3Asmile%3A+;+GitHub+Profile+%3Asmile%3A+)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232341F7&lines=Hi!+My+name+is+Anandhu+ashok.;Thank+You+for+taking+the+time;+to+view+my+GitHub+Profile+%3Asmile%3A+;+GitHub+Profile+%3Asmile%3A+)](https://git.io/typing-svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anandhx.anandhx)
+
 <h3 align="center">Developer making awesome things for awesome people 🚀</h3>
 
 

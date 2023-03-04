@@ -3,8 +3,10 @@
 <h3 align="center">Developer making awesome things for awesome people 🚀</h3>
 
 
-<h3 align="left">Connect with me:</h3> <a href="https://instagram.com/mind________freezer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mind________freezer" height="30" width="40" /></a>
-
+<p align="left">
+<a href="https://instagram.com/mind________freezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind________freezer" height="30" width="40" /></a>
+</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anandhx.anandhx)
 
 
 THE BEST INSTAGRAM STORY LIKER
@@ -71,5 +73,9 @@ This code is in no way affiliated with, authorized, maintained, sponsored or end
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandhx&" alt="anandhx" /></p>
 
 
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
